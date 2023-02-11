@@ -1,16 +1,15 @@
-# BLIS Online
+![# BLIS TEAM](/assets/blishrader.jpg "Image Title")
 
-The BLIS online team's primary goal is to bring [BLIS (Basic Laboratory Information System)](https://github.com/C4G/BLIS) online.
 
-## Team Members
 
-* Eyerusalem Lulseged
-* Reena George
-* Shiboo Varughese - Team lead
-* Steven Anderson 
+
+![# BLIS TEAM](assets/team-members.jpg "Image Title")
+
+
+# The BLIS online team's primary goal is to bring [BLIS (Basic Laboratory Information System)](https://github.com/C4G/BLIS) online.
+
 
 ## Project Goal
-
 
 
 
