@@ -3,6 +3,8 @@
 
 
 
+
+
 ![# BLIS TEAM](assets/team-members.jpg "Image Title")
 
 
