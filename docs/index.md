@@ -15,8 +15,8 @@
 ## Lighthouse Scores
 
 * Tested February 11th 2023
-  * Performance - 97
-  * Accessibility - 98
-  * Best Practices - 92
-  * SEO - 92
-  * PWA - 89
+    * Performance - 97
+    * Accessibility - 98
+    * Best Practices - 92
+    * SEO - 92
+    * PWA - 89
