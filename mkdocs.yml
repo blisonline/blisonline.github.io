@@ -7,3 +7,4 @@ theme:
   name: material
   palette:
     primary: deep orange
+    accent: black    
