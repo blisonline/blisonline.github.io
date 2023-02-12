@@ -1,4 +1,4 @@
-<img src = "assets/blisheader.jpg" alt="BLIS Online Team" width="970" height="245">
+<img src = "assets/blisheader.png" alt="BLIS Online Team" width="970" height="245">
 
 
 <img src = "assets/team-members.jpg" alt="Team Members - Eyerusalem (Jerry) Lulseged, Steven Anderson, Shiboo Varughese, Reena George" width="722" height="422">
