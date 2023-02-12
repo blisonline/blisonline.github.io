@@ -1,4 +1,4 @@
-![# BLIS TEAM](/assets/blishrader.jpg "Image Title")
+![# BLIS TEAM](/assets/blisOnlineTeamHeader.jpg "Image Title")
 
 
 
