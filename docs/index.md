@@ -12,8 +12,8 @@ The BLIS online team's primary goal is to bring [BLIS (Basic Laboratory Informat
 ## Lighthouse Scores
 
 * Tested February 11th 2023
-  * Performance - 95
+  * Performance - 96
   * Accessibility - 98
   * Best Practices - 92
   * SEO - 92
-  * PWA - 56
+  * PWA - 67
