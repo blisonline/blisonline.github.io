@@ -1,0 +1,11 @@
+{
+    "name": "Basic Laboratory Information System Online",
+    "short_name": "BLIS Online",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "scope": ".",
+    "orientation":"portrait",
+    "icons": [
+    
+    ]
+}
