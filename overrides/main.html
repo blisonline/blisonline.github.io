@@ -3,3 +3,11 @@
 {% block extrahead %}
 <link rel="manifest" href="manifest.json">
 {% endblock %}
+
+{% block content %}
+<script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('javascripts/sw.js')
+    }
+</script>
+{% endblock %}
