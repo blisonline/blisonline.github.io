@@ -1,9 +1,0 @@
-{% extends "base.html" %}
-
-{% block content %}
-<script>
-    if (typeof navigator.serviceWorker !== 'undefined') {
-        navigator.serviceWorker.register('javascripts/sw.js')
-    }
-</script>
-{% endblock %}

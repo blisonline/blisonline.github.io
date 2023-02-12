@@ -1,5 +1,15 @@
 {% extends "base.html" %}
 
 {% block extrahead %}
+{{ super() }}
 <link rel="manifest" href="manifest.json">
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+<script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('javascripts/sw.js')
+    }
+</script>
 {% endblock %}
