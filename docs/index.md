@@ -1,25 +1,19 @@
-![# BLIS TEAM](/assets/blisOnlineTeamHeader.jpg "Image Title")
+<img src = "assets/blisheader.jpg" alt="BLIS Online Team" width="970" height="245">
 
 
-
-
-
-
-![# BLIS TEAM](assets/team-members.jpg "Image Title")
-
-
-# The BLIS online team's primary goal is to bring [BLIS (Basic Laboratory Information System)](https://github.com/C4G/BLIS) online.
+<img src = "assets/team-members.jpg" alt="Team Members - Eyerusalem (Jerry) Lulseged, Steven Anderson, Shiboo Varughese, Reena George" width="722" height="422">
 
 
 ## Project Goal
 
+The BLIS online team's primary goal is to bring [BLIS (Basic Laboratory Information System)](https://github.com/C4G/BLIS) online.
 
 
 ## Lighthouse Scores
 
 * Tested February 11th 2023
-  * Performance - 98
-  * Accessibility - 84
-  * Best Practices - 100
+  * Performance - 95
+  * Accessibility - 86
+  * Best Practices - 83
   * SEO - 100
-  * PWA - 333
+  * PWA - 33
