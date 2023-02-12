@@ -1,4 +1,7 @@
 site_name: "BLIS Online"
+site_description: 'BLIS Online Website'
+site_author: 'BLIS Online Team'
+site_url: 'https://blisonline.github.io'
 
 edit_uri: edit/main/docs/
 repo_url: https://github.com/blisonline/blisonline.github.io
