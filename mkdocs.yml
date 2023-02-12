@@ -6,4 +6,4 @@ repo_url: https://github.com/blisonline/blisonline.github.io
 theme:
   name: material
   palette:
-    accent: deep orange
+    primary: deep orange
