@@ -5,6 +5,7 @@
 {% endblock %}
 
 {% block content %}
+{{ super() }}
 <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
         navigator.serviceWorker.register('javascripts/sw.js')
