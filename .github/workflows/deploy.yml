@@ -20,5 +20,4 @@ jobs:
           node-version: 16
       - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin pygments pymdown-extensions
       - run: npm install -g workbox-cli
-      - run: npm run build
       - run: mkdocs gh-deploy --force
