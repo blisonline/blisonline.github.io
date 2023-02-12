@@ -13,7 +13,7 @@ The BLIS online team's primary goal is to bring [BLIS (Basic Laboratory Informat
 
 * Tested February 11th 2023
   * Performance - 95
-  * Accessibility - 86
-  * Best Practices - 83
-  * SEO - 100
-  * PWA - 33
+  * Accessibility - 98
+  * Best Practices - 92
+  * SEO - 92
+  * PWA - 56
