@@ -1,11 +1,22 @@
 {
-    "name": "Basic Laboratory Information System Online",
-    "short_name": "BLIS Online",
-    "start_url": "index.html",
-    "display": "fullscreen",
-    "scope": ".",
-    "orientation":"portrait",
+    "background_color": "#ffffff",
+    "description": "BLIS Online team page",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "blisonline",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "blisonline",
+    "start_url": "/",
+    "theme_color": "#ff6e42",
+    "categories": [],
+    "screenshots": [],
     "icons": [
-    
-    ]
+      {
+        "src": "assets/images/favicon.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      }
+    ],
+    "shortcuts": []
 }
