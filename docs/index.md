@@ -1,19 +1,22 @@
 <center><img src = "assets/blisheader.png" alt="BLIS Online Team" width="500" height="88"></center>
 
 
-<center><img src = "assets/team-members.png" alt="Team Members - Eyerusalem (Jerry) Lulseged, Steven Anderson, Shiboo Varughese, Reena George" width="722" height="422"></center>
+<center><img src = "assets/team-members.png" alt="Team Members - Eyerusalem (Jerry) Lulseged, Steven Anderson, Shiboo Varughese, Reena George" width="460" height="408"></center>
 
 
-## Project Goal
+## Project Goals
 
-The BLIS online team's primary goal is to bring [BLIS (Basic Laboratory Information System)](https://github.com/C4G/BLIS) online.
+1. Identify deployment production targets. 
+2. Deploy BLIS V3.8 to the target client production accounts. 
+3. Resolve any issues with the deployment. 
+4. Smoke test production environment. 
 
 
 ## Lighthouse Scores
 
 * Tested February 11th 2023
-  * Performance - 95
-  * Accessibility - 86
-  * Best Practices - 83
-  * SEO - 100
-  * PWA - 33
+    * Performance - 97
+    * Accessibility - 98
+    * Best Practices - 92
+    * SEO - 92
+    * PWA - 89
