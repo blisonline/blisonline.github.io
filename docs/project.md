@@ -8,10 +8,6 @@
 3. Resolve any issues with the deployment. 
 4. Smoke test production environment. 
 
-## Mini Presentation
-
-[BLIS Online Mini Presentation](blis_online_mini_presentation.pdf)
-
 
 ## Lighthouse Scores
 
