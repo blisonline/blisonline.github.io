@@ -17,5 +17,5 @@
 
 * Tested February 19th 2023
 
-<left><img src = "/assets/blisheaderLighthouse-metrics.webp" alt="Lighthouse Metrics" width="500" height="88"></left>
+<left><img src = "/assets/LighthouseAudits.webp" alt="Lighthouse Metrics" width="500" height="88"></left>
    
