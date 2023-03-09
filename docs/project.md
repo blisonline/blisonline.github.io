@@ -19,16 +19,16 @@ Please refer to the [playbook here](assets/BLIS_V3.8_PlayBook_v1.pdf) for fillin
 
 ## Team Contribution
 
-* Shiboo Varughese
+- Shiboo Varughese
   * Documentation
   * Bug fixes
-* Eyerusalem (Jerry) Lulseged
+- Eyerusalem (Jerry) Lulseged
   * Documentation
   * Bug fixes
-* Reena George
+- Reena George
   * Documentation
   * Bug fixes
-* Steven Anderson
+- Steven Anderson
   * Documentation
   * Bug fixes
 
