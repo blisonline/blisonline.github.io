@@ -23,14 +23,17 @@ Please refer to the [playbook here](assets/BLIS_V3.8_PlayBook_v1.pdf) for fillin
 
     * Documentation
     * Bug fixes
+
 - Eyerusalem (Jerry) Lulseged
 
     * Documentation
     * Bug fixes
+
 - Reena George
 
     * Documentation
     * Bug fixes
+
 - Steven Anderson
 
     * Documentation
