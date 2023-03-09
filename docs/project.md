@@ -1,4 +1,4 @@
-<center><img src = "/assets/blisheader.png" alt="BLIS Online Team" width="500" height="88"></center>
+<center><img src = "assets/blisheader.png" alt="BLIS Online Team" width="500" height="88"></center>
 
 
 ## Project Goals
@@ -10,12 +10,33 @@
 
 ## Mini Presentation
 
-[BLIS Online Mini Presentation](/assets/blis_online_mini_presentation.pdf)
+[BLIS Online Mini Presentation](assets/blis_online_mini_presentation.pdf)
 
+
+## Survey
+
+Please refer to the [playbook here](assets/BLIS_V3.8_PlayBook_v1.pdf) for filling out the survey.
+
+Survey: https://gatech.co1.qualtrics.com/jfe/form/SV_7NWTqDo6ypFJCgS
+
+## Team Contribution
+
+* Shiboo Varughese
+  * Documentation
+  * Bug fixes
+* Eyerusalem (Jerry) Lulseged
+  * Documentation
+  * Bug fixes  
+* Reena George
+  * Documentation
+  * Bug fixes  
+* Steven Anderson
+  * Documentation
+  * Bug fixes   
 
 ## Lighthouse Scores
 
 Metrics Generated on February 19th 2023
 
-<left><img src = "/assets/LighthouseAudits.webp" alt="Lighthouse Metrics" width="680" height="190"></left>
+<left><img src = "assets/LighthouseAudits.webp" alt="Lighthouse Metrics" width="680" height="190"></left>
    
