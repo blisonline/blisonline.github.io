@@ -12,6 +12,8 @@
 
 [BLIS Online Mini Presentation](/assets/blis_online_mini_presentation.pdf)
 
+[BLIS Online Demo](https://youtu.be/mQFPkyUIiXg)
+
 
 ## Lighthouse Scores
 
