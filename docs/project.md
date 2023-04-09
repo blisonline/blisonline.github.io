@@ -15,6 +15,10 @@
 [BLIS Online Demo](https://youtu.be/mQFPkyUIiXg)
 
 
+## Smoke Test
+
+You can find the instructions for running the [smoke tests here.](https://github.com/blisonline/blisonline.github.io/tree/main/smoke_tests)
+
 ## Survey
 
 Please refer to the [playbook here](assets/BLIS_V3.8_PlayBook_v1.pdf) for filling out the [survey here](https://gatech.co1.qualtrics.com/jfe/form/SV_7NWTqDo6ypFJCgS).
