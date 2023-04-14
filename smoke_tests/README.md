@@ -14,3 +14,8 @@
 12. Navigate to the directory with cd
 13. Run python main.py in your terminal or command prompt
 14. The testing platform will run and will report back if any tests failed and with any errors or if all the tests ran successfully
+
+## Current Tests
+
+1. Login
+2. Specimen test
