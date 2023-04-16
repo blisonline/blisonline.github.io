@@ -3,6 +3,7 @@ import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 blis_url = "http://172.24.80.1:4001"
 
@@ -20,7 +21,12 @@ class Test(ABC, unittest.TestCase):
         self.driver.close()
 
     def get_element_by_id(self, id):
+        WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located((By.ID, id)))
         return self.driver.find_element(By.ID, id)
+    
+    def get_element_by_xpath(self, xpath):
+        WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located((By.XPATH, xpath)))
+        return self.driver.find_element(By.XPATH, xpath)
 
     def get_a_tag_by_href(self, href):
         anchors = self.driver.find_elements(By.TAG_NAME, "a")
@@ -30,6 +36,9 @@ class Test(ABC, unittest.TestCase):
                 return anchor
         return None
 
+    def driver(self):
+        return self.driver  
+     
     def login(self):
         login_field = self.get_element_by_id("username")
         password_field = self.get_element_by_id("password")
