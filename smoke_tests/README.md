@@ -19,3 +19,5 @@
 
 1. Login
 2. Specimen test
+3. Registering a patient
+4. Registering a specimen
